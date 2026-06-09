@@ -1,0 +1,8 @@
+name: emetme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: Truth as a firm foundation one can build a life upon, faithful and gap-free from beginning to end, received as a gift rather than self-made.
+dependsOn: [youspeak, me, maatme, ashame]
